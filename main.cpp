@@ -14,7 +14,7 @@ using namespace std;
 
 int main(){
 	
-	string filename = "/Users/tom/Documents/Programming/Algorithm/IMOOC/testG3.txt";
+	string filename = "/Users/tom/Documents/Programming/Play-With-Algorithms/Play-With-Algorithms/testG3.txt";
 	int V = 8;
 	
 	SparseGraph<double> g = SparseGraph<double>(V, false);
