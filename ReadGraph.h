@@ -14,6 +14,9 @@
 #include <sstream>
 #include <cassert>
 
+#include "SparseGraph.h"
+#include "DenseGraph.h"
+
 using namespace std;
 
 //template <class Graph>

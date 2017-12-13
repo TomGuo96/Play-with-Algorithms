@@ -11,6 +11,8 @@
 
 #include <iostream>
 
+using namespace std;
+
 template <class Weight>
 class Edge{
 	
